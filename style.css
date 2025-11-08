@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #e63946;
+  font-size: 2.5em;
+}
+
+p {
+  max-width: 600px;
+  margin: 10px auto;
+  line-height: 1.6;
+}
+
+ol {
+  text-align: left;
+  display: inline-block;
+}
+
+img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+.clover-image{
+ width: 220px;
+}
+.slayer-image{
+  width: 228.5px;
+}
